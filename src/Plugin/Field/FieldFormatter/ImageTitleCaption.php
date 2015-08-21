@@ -15,7 +15,7 @@ use Drupal\image\Plugin\Field\FieldFormatter\ImageFormatter;
  *
  * @FieldFormatter(
  *   id = "image_title_caption",
- *   label = @Translation("Image with caption from title Arit"),
+ *   label = @Translation("Image with title Arit"),
  *   field_types = {
  *     "image"
  *   }
